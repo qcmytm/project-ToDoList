@@ -84,7 +84,7 @@ add.addEventListener("click", (e) => {
 });
 
 loadData();
-
+//網頁開啟後,確認本地localStorage以存的list
 function loadData() {
   let myList = localStorage.getItem("list");
   if (myList !== null) {
@@ -139,7 +139,7 @@ function loadData() {
     });
   }
 }
-
+//合併排序法(Merge Sort)
 function mergeTime(arr1, arr2) {
   let result = [];
   let i = 0;
