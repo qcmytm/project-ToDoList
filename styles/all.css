@@ -28,7 +28,8 @@ form {
   justify-content: center;
   align-items: center;
 }
-form input, form button {
+form input,
+form button {
   border: none;
   padding: 0.25rem 0.5rem;
   font-size: 1.75rem;
@@ -55,7 +56,7 @@ section {
   align-items: center;
 }
 section .todo {
-  width: 30vw;
+  width: 40vw;
   display: flex;
   align-items: center;
   margin: 0.2rem 0rem;
