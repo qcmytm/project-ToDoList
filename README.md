@@ -5,5 +5,5 @@ JS練習Project,用JS編寫而成<br/>
 使用合併排序法(Merge Sort)依日期大小作排列<br/>
 上架github pages空間<br/>
 <a href="https://qcmytm.github.io/project-ToDoList/">ToDoList-pages</a><br/>
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/107973729/216778171-bcf7020e-d2de-4975-895b-0555e3b83f7e.gif)
+
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/107973729/216778176-2b3cecb7-277a-4c93-88ea-cad68e5d1152.gif)
